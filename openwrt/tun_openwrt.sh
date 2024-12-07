@@ -9,7 +9,7 @@
 
 # 配置参数
 BACKEND_URL="http://88.88.88.188:5000"  # 转换后端地址
-SUBSCRIPTION_URL="http://88.88.88.188:3001/DMZDgS3nIraE9UtSJ9KW/download/%E8%84%9A%E6%9C%AC%E8%8E%B7%E5%8F%96?includeUnsupportedProxy=true"  # 订阅地址
+SUBSCRIPTION_URL="http://88.88.88.188:3001/DMZDgS3nIraE9UtSJ9KW/download/%E8%84%9A%E6%9C%AC%E8%8E%B7%E5%8F%96?target=sing-box"  # 订阅地址
 TEMPLATE_URL="https://raw.githubusercontent.com/Emirgithub/SingboxRule/refs/heads/master/config/singbox/config_tun.json"  # 配置文件（规则模板)
 MAX_RETRIES=3  # 最大重试次数
 RETRY_DELAY=3  # 重试间隔时间（秒）
